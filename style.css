@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  border: 2px solid black;
+  width: 90%;
+  margin-inline: auto;
+  padding: 1rem;
+}
+
+.title {
+  text-align: center;
+}
+
+.card {
+  margin-top: 1rem;
+}
+
+.head {
+  color: green;
+  font-weight: 900;
+  font-size: 3rem;
+}
